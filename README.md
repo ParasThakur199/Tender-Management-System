@@ -199,7 +199,6 @@ http://localhost:8080
 #### Neha Sahu
 
 > Github: [sahu-neha](https://github.com/sahu-neha) 
-(Teamlead)
 
 > => created the controller of Admin.
 
